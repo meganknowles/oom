@@ -24,49 +24,48 @@ window.others = {
       {
         "avatar": "avatars/others/anca.png",
         "username": "Jennifer",
-        "text": "Right now I'm studying to become a veterinarian. Its my last year of school and Im super excited! School has been super busy, but when I have free time I try to see my friends as much as possible. I love to go to museums and concerts when I can. I’m also a big fan of plays, but I don’t get to see them often.",
-        "likes": [10000, 12000, 40000, 80000, 120000] //5
+        "text": "Right now I'm studying to become a veterinarian. Its my last year of school and Im super excited! School has been super busy, but when I have free time I try to visit my friends and family back home. I love to spend time outdoors -- especially going on long walks with my dogs.", 
       },
       {
         "avatar": "avatars/others/niki.png",
         "username": "Nick",
-        "text": "I’m a 22-year-old college student studying environmental science. I’m passionate about sustainability and climate activism. In my spare time, I enjoy rock climbing, painting, and playing the guitar. My dream is to work on conservation projects around the world.",
+        "text": "I’m a 22-year-old college student studying environmental science. I’m passionate about sustainability and climate activism. In my spare time, I enjoy rock climbing, playing the guitar, and volunteering. My dream is to work on conservation projects around the world.",
         "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
         "avatar": "avatars/others/mary.png",
         "username": "Mary",
-        "text": "Hi! I’m 34 years old. I’m an HR assistant and mainly I provide general support for HR functions. I like listening to music, watching soccer and hanging out with my 2 golden retriever dogs.",
+        "text": "Hi! I’m a 40 year old mom to 7-year twin boys. They keep me busy and laughing! For work, I’m an HR assistant and mainly I provide general support for HR functions. I like scrapbooking, baking, and spending time with my family.",
         "likes": [20000, 25000, 95000] //3
       },
       {
         "avatar": "avatars/others/lauren.png",
         "username": "Lauren",
-        "text": "Hey! I’m 28, and I am a hairstylist in Pittsburgh. I play piano in my free time and love to walk my black lab, Jules, when the weather is nice. My favorite band is the Beatles and I have 2 nieces who love to come over and bake with me on weekends.",
+        "text": "Hey! I’m 28, and I am a nurse in Fresno. In my downtime, I enjoy yoga, crafting, and bingewatching my favorite shows. I also watch my niece and nephews pretty often when my sister travels for work. That's when I end up bingewatching Nickelodeon! lol",
         "likes": [12000, 38000] //1
       },
           {
         "avatar": "avatars/others/kim.png",
         "username": "Kim",
-        "text": "I’m 41 looking to do work in Community work. I like helping people and I’ve been doing Non-profit works to help the local community thrive and reversing environmental impacts! I like cats and crocheting; I love going to cat cafes local to my area.",
+        "text": "I’m 41 looking for full-time work after a recent divorce. I like helping people of all backgrounds. I’ve been volunteering with alot of different groups, like our local blood blank and meals on wheels. I like cats and crocheting; I love going to cat cafes local to my area.",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
       },
       {
         "avatar": "avatars/others/arjen.png",
         "username": "Noah",
-        "text": "Hey, I’m Noah, I’m 33 years old, working as a veterinary assistant in New York! I have a wife and two kids who both play soccer. In my free time, I like to read and play chess, and I enjoy cooking for my family.",
+        "text": "Hey, I’m Noah, I’m 37 years old and live in the DFW area. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
         "likes": [12000, 40000, 120000] //3
       },
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "Just now I'm finishing up my first year of a difficult science curriculum in university. I also work at a cosmetics counter as a part-time thing. I have a lot planned for my future, and it's really exciting. I want to grow up and be a doctor with a family of lots of little dogs.",
+        "text": "I'm a stay-at-home mom of three beautiful girls! Before kids, I was taking some classes online and working a dead end retail job. Now, I spend most of my time with my girls and DH. I also enjoy doing studies online now and then, though they don't pay well!",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
         "avatar": "avatars/others/jane.png",
         "username": "Beth",
-        "text": "Hi! I’m Beth—about to turn 48, mother to three awesome young adults, recently single and dating for the first time in two decades. Yikes. Former HS science teacher turned ultrasound technologist. Love the beach, crossword puzzles, and true crime.",
+        "text": "Hi! I’m Beth—about to turn 50, mother to three awesome young adults, recently single and dating for the first time in two decades. Yikes. Former HS science teacher turned ultrasound technologist. Love the beach, crossword puzzles, and true crime.",
         "likes": [10000, 50000] //6
       },
 
