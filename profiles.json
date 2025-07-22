@@ -53,7 +53,7 @@ window.others = {
       {
         "avatar": "avatars/others/arjen.png",
         "username": "Noah",
-        "text": "Hey, I’m Noah, I’m 37 years old and live in the DFW area. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
+        "text": "Hey, I’m Noah, I’m 37 years old and live in the Bay area. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
         "likes": [12000, 40000, 120000] //3
       },
       {
