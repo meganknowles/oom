@@ -24,7 +24,7 @@ window.others = {
       {
         "avatar": "avatars/others/anca.png",
         "username": "Jennifer",
-        "text": "Right now I'm studying to become a veterinarian. Its my last year of school and Im super excited! School has been super busy, but when I have free time I try to visit my friends and family back home in the UP. I love to spend time outdoors -- especially going on long walks with my dogs.", 
+        "text": "Right now I'm studying to become a veterinarian. Its my last year of school and Im super excited! School has been super busy, but when I have free time I try to visit my friends and family back home upstate. I love to spend time outdoors -- especially going on long walks with my dogs.", 
       },
       {
         "avatar": "avatars/others/niki.png",
@@ -41,7 +41,7 @@ window.others = {
       {
         "avatar": "avatars/others/lauren.png",
         "username": "Lauren",
-        "text": "Hey! I’m 28, and I am a nurse in Grand Rapids. In my downtime, I enjoy yoga, crafting, and bingewatching my favorite shows. I also watch my niece and nephews pretty often when my sister travels for work. That's when I end up bingewatching Nickelodeon! lol",
+        "text": "Hey! I’m 28, and I am a nurse in Buffalo. In my downtime, I enjoy yoga, crafting, and bingewatching my favorite shows. I also watch my niece and nephews pretty often when my sister travels for work. That's when I end up bingewatching Nickelodeon! lol",
         "likes": [12000, 38000] //1
       },
           {
@@ -53,7 +53,7 @@ window.others = {
       {
         "avatar": "avatars/others/arjen.png",
         "username": "Noah",
-        "text": "Hey, I’m Noah, I’m 37 years old and live outside Detroit. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
+        "text": "Hey, I’m Noah, I’m 37 years old and live in Brooklyn. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
         "likes": [12000, 40000, 120000] //3
       },
       {
